@@ -1,0 +1,19 @@
+.container {
+    width: 1400px;
+    margin: 50px auto;
+}
+
+address {
+    font-style: normal;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skills p {
+    margin: 0;  
+    padding: 0;
+}
+
